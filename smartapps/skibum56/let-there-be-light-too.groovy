@@ -3,6 +3,8 @@
  *  Turn your lights on when an open/close sensor opens and off when the sensor closes.
  *
  *  Author: SmartThings
+ * 
+ *  Update 1
  */
 definition(
     name: "Let There Be Light Too!",
