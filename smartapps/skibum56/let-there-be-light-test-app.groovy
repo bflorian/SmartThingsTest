@@ -4,7 +4,7 @@
  *
  *  Author: Ski Bum
  * 
- *  UPDATE 2
+ *  UPDATE 3
  */
 definition(
     name: "Let There Be Light Test App",
