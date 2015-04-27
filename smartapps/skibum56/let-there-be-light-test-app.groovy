@@ -2,7 +2,9 @@
  *  Let There Be Light!
  *  Turn your lights on when an open/close sensor opens and off when the sensor closes.
  *
- *  Author: SmartThings
+ *  Author: Ski Bum
+ * 
+ *  UPDATE 2
  */
 definition(
     name: "Let There Be Light Test App",
