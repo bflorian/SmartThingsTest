@@ -2,8 +2,6 @@
  *  Brighten My Path
  *
  *  Author: SmartThings
- * 
- *  Modified by: Bob
  */
 definition(
     name: "Brighten My Path",
